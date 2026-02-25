@@ -1,4 +1,4 @@
-# Profssional Diploma in Data Science – Projects & Assignments
+# Professional Diploma in Data Science – Projects & Assignments
 
 This repository contains all projects and assignments completed as part of the course.
 
@@ -36,7 +36,7 @@ python/
 Clone the repository:
 
 ```
-git clone https://github.com/crushinblow/crushinblow-lithan_data_projects.git
+git clone https://github.com/crushinblow/lithan_data_projects.git
 ```
 
 ---
